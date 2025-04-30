@@ -101,12 +101,12 @@
     "presets": {
         "91": {
             "id": "91",
-            "name": "Back to You (Remix)",
+            "name": "Kit 1",
             "orderBy": "79",
             "tempo": 150,
             "price": 100,
             "hasInfo": false,
-            "audioPreview1Name": "Back to You Remix",
+            "audioPreview1Name": "Kit 1",
             "tags": [
                 "#jungle",
                 "#drumandbass"
@@ -281,17 +281,17 @@
                     "choke": 0
                 }
             },
-            "author": "Phenom",
+            "author": "Aachi",
             "difficulty": 3
         },
         "93": {
             "id": "93",
-            "name": "Jungle Book",
+            "name": "Kit 2",
             "orderBy": "89",
             "tempo": 170,
             "price": 100,
             "hasInfo": false,
-            "audioPreview1Name": "Jungle Book!",
+            "audioPreview1Name": "Kit 2",
             "tags": [
                 "#jungle",
                 "#drumandbass"
@@ -2167,7 +2167,7 @@
                     "choke": 0
                 }
             },
-            "author": "Phenom",
+            "author": "Aachi",
             "difficulty": 3
         }
     }
