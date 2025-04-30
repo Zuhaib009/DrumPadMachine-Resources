@@ -104,8 +104,13 @@
             "name": "Back to You (Remix)",
             "orderBy": "79",
             "tempo": 150,
+            "price": 100,
             "hasInfo": false,
             "audioPreview1Name": "Back to You Remix",
+            "tags": [
+                "#jungle",
+                "#drumandbass"
+            ],
             "files": {
                 "1": {
                     "filename": "back_to_you_a_keys_01.wav",
@@ -2164,187 +2169,6 @@
             },
             "author": "Phenom",
             "difficulty": 3
-        },
-        "94": {
-            "id": "94",
-            "name": "Pizza!",
-            "orderBy": "84",
-            "tempo": 125,
-            "hasInfo": false,
-            "audioPreview1Name": "Pizza!",
-            "files": {
-                "1": {
-                    "filename": "pizza_a_strings_01.wav",
-                    "color": "green",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 1
-                },
-                "2": {
-                    "filename": "pizza_a_strings_02.wav",
-                    "color": "green",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 1
-                },
-                "3": {
-                    "filename": "pizza_a_arp_01.wav",
-                    "color": "purple",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 2
-                },
-                "4": {
-                    "filename": "pizza_a_guitar_01.wav",
-                    "color": "yellow",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 3
-                },
-                "5": {
-                    "filename": "pizza_a_guitar_02.wav",
-                    "color": "yellow",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 3
-                },
-                "6": {
-                    "filename": "pizza_a_arp_02.wav",
-                    "color": "purple",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 2
-                },
-                "7": {
-                    "filename": "pizza_a_bass_01.wav",
-                    "color": "red",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 4
-                },
-                "8": {
-                    "filename": "pizza_a_bass_02.wav",
-                    "color": "red",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 4
-                },
-                "9": {
-                    "filename": "pizza_a_vox_01.wav",
-                    "color": "blue",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 0
-                },
-                "10": {
-                    "filename": "pizza_a_kick_01.wav",
-                    "color": "blue",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 0
-                },
-                "11": {
-                    "filename": "pizza_a_hat_01.wav",
-                    "color": "yellow",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 0
-                },
-                "12": {
-                    "filename": "pizza_a_snare_01.wav",
-                    "color": "purple",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 0
-                },
-                "13": {
-                    "filename": "pizza_b_chords_01.wav",
-                    "color": "red",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 1
-                },
-                "14": {
-                    "filename": "pizza_b_chords_02.wav",
-                    "color": "red",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 1
-                },
-                "15": {
-                    "filename": "pizza_b_bass_01.wav",
-                    "color": "blue",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 1
-                },
-                "16": {
-                    "filename": "pizza_b_chords_03.wav",
-                    "color": "red",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 1
-                },
-                "17": {
-                    "filename": "pizza_b_chords_04.wav",
-                    "color": "red",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 1
-                },
-                "18": {
-                    "filename": "pizza_b_bass_02.wav",
-                    "color": "blue",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 1
-                },
-                "19": {
-                    "filename": "pizza_b_arp_01.wav",
-                    "color": "purple",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 2
-                },
-                "20": {
-                    "filename": "pizza_b_arp_02.wav",
-                    "color": "purple",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 2
-                },
-                "21": {
-                    "filename": "pizza_b_vox_01.wav",
-                    "color": "yellow",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 0
-                },
-                "22": {
-                    "filename": "pizza_b_kick_01.wav",
-                    "color": "blue",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 0
-                },
-                "23": {
-                    "filename": "pizza_b_perc_01.wav",
-                    "color": "yellow",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 0
-                },
-                "24": {
-                    "filename": "pizza_b_clap_01.wav",
-                    "color": "green",
-                    "stopOnRelease": "0",
-                    "looped": false,
-                    "choke": 0
-                }
-            },
-            "DELETED": true,
-            "author": "Phenom",
-            "difficulty": 1
         }
     }
 }
