@@ -1999,168 +1999,168 @@
             },
             "files": {
                 "1": {
-                    "filename": "jungle_book_a_pad_01.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "green",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 1
                 },
                 "2": {
-                    "filename": "jungle_book_a_pad_02.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "green",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 1
                 },
                 "3": {
-                    "filename": "jungle_book_a_lead_01.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "red",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 2
                 },
                 "4": {
-                    "filename": "jungle_book_a_chords_01.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "yellow",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 3
                 },
                 "5": {
-                    "filename": "jungle_book_a_chords_02.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "yellow",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 3
                 },
                 "6": {
-                    "filename": "jungle_book_a_lead_02.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "red",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 2
                 },
                 "7": {
-                    "filename": "jungle_book_a_bass_01.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "blue",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 4
                 },
                 "8": {
-                    "filename": "jungle_book_a_bass_02.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "blue",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 4
                 },
                 "9": {
-                    "filename": "jungle_book_a_vox_01.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "purple",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 0
                 },
                 "10": {
-                    "filename": "jungle_book_a_kick_01.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "red",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 0
                 },
                 "11": {
-                    "filename": "jungle_book_a_shuffle_01.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "purple",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 0
                 },
                 "12": {
-                    "filename": "jungle_book_a_snare_01.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "green",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 0
                 },
                 "13": {
-                    "filename": "jungle_book_b_pad_01.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "purple",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 0
                 },
                 "14": {
-                    "filename": "jungle_book_b_keys_01.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "green",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 0
                 },
                 "15": {
-                    "filename": "jungle_book_b_yoy_01.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "red",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 0
                 },
                 "16": {
-                    "filename": "jungle_book_b_lead_01.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "blue",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 1
                 },
                 "17": {
-                    "filename": "jungle_book_b_lead_02.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "blue",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 1
                 },
                 "18": {
-                    "filename": "jungle_book_b_vox_01.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "yellow",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 2
                 },
                 "19": {
-                    "filename": "jungle_book_b_bass_01.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "red",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 3
                 },
                 "20": {
-                    "filename": "jungle_book_b_bass_02.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "red",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 3
                 },
                 "21": {
-                    "filename": "jungle_book_b_vox_02.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "yellow",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 2
                 },
                 "22": {
-                    "filename": "jungle_book_b_kick_01.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "yellow",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 0
                 },
                 "23": {
-                    "filename": "jungle_book_b_perc_01.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "green",
                     "stopOnRelease": "0",
                     "looped": false,
                     "choke": 0
                 },
                 "24": {
-                    "filename": "jungle_book_b_snare_01.wav",
+                    "filename": "night_city_beat_a_bass_02.wav",
                     "color": "purple",
                     "stopOnRelease": "0",
                     "looped": false,
